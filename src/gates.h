@@ -28,7 +28,7 @@
  * Handles gates (kneestand) and checks if the player have completed the level
  */
 
-#include "SDL2/SDL.h"
+#include "SDL.h"
 #include "level.h"
 #include "draw.h"
 

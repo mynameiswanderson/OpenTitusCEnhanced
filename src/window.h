@@ -27,7 +27,7 @@
 */
 
 #pragma once
-#include "SDL2/SDL.h"
+#include "SDL.h"
 
 int window_init();
 void window_toggle_fullscreen();

@@ -26,7 +26,7 @@
  * Keyboard functions
  */
 
-#include "SDL2/SDL.h"
+#include "SDL.h"
 #include "keyboard.h"
 #include "globals.h"
 #include "common.h"

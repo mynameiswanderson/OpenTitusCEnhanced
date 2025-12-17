@@ -37,7 +37,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "SDL2/SDL.h"
+#include "SDL.h"
 #include "globals.h"
 #include "window.h"
 #include "sprites.h"

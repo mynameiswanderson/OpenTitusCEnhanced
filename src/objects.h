@@ -29,7 +29,7 @@
 #ifndef OBJECT_H
 #define OBJECT_H
 
-#include "SDL2/SDL.h"
+#include "SDL.h"
 #include "level.h"
 
 void move_objects(TITUS_level *level);

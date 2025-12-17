@@ -28,7 +28,7 @@
 
 #pragma once
 
-#include "SDL2/SDL.h"
+#include "SDL.h"
 
 void scroll(TITUS_level *level);
 bool L_SCROLL(TITUS_level *level);

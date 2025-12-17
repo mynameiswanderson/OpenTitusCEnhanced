@@ -28,7 +28,7 @@
 
 #pragma once
 
-#include "SDL2/SDL.h"
+#include "SDL.h"
 #include "level.h"
 
 void CLEAR_DATA(TITUS_level *level);

@@ -37,7 +37,7 @@
 
 #pragma once
 
-#include "SDL2/SDL.h"
+#include "SDL.h"
 #include "level.h"
 #include "definitions.h"
 

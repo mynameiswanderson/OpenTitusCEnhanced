@@ -32,7 +32,7 @@
 #ifndef COMMON_H
 #define COMMON_H
 
-#include "SDL2/SDL.h"
+#include "SDL.h"
 #include "definitions.h"
 
 /// Decreases a value with 1 until it's zero

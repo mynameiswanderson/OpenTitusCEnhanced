@@ -32,7 +32,7 @@
 #ifndef ELEVATORS_H
 #define ELEVATORS_H
 
-#include "SDL2/SDL.h"
+#include "SDL.h"
 #include "level.h"
 
 

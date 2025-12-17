@@ -1,3 +1,6 @@
+set(SDL2_INCLUDE_DIR "/opt/homebrew/opt/sdl2/include/SDL2")
+set(SDL2_MIXER_INCLUDE_DIR "/opt/homebrew/opt/sdl2_mixer/include/SDL2")
+
 set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
 
 cmake_minimum_required(VERSION 3.20)
